@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Wigwood whistle wocket** 
+
+_**Wigwood whistle wocket**_
+
+*__Wigwood whistle wocket__*
+
+_Wigwood whistle wocket_
